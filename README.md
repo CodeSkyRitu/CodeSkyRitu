@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @CodeSkyRitu
+- 👋 Hi, I’m Isratul Islam Ritu
+- 👩‍💻 A passionate CS student with a dream to become a software engineer  
 - 👀 I’m interested in ...DSA and Web Development
 - 🌱 I’m currently learning ...C Language
 - 💞️ I’m looking to collaborate on ...Coding
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤝 I love helping others and learning together through code  
+- 📫 Reach me at: [GitHub: CodeSkyRitu](https://github.com/CodeSkyRitu)  
+- 😇 Guided by faith, driven by purpose  
 
 <!---
 CodeSkyRitu/CodeSkyRitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
